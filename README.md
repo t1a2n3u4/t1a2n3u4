@@ -15,7 +15,7 @@
 - 👯 Love collaborating on open-source, hackathons & tech communities
 - 📚 Tech stack: React.js, Node.js, Express.js, MongoDB, HTML, CSS, JS, Git, GitHub
 - 💬 Ask me about anything in MERN, GitHub, C++, or API integrations
-- 📫 Reach me at: `your.email@example.com` *(replace with your real email)*
+- 📫 Reach me at: `tanishkamishra488@gmail.com` *(replace with your real email)*
 
 ---
 
@@ -83,15 +83,18 @@
 ## 🤝 Let's Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/tanishka-mishra-1aa160247/" target="_blank">
-    <img src="https://tse1.mm.bing.net/th/id/OIP.fTEgFBsyeeY_AGYf93hJhwHaHY?rs=1&pid=ImgDetMain&o=7&rm=3" />
-  </a>
-  <a href="mailto:tanishkamishra488@gmail.com">
-    <img src="https://www.svgrepo.com/show/93973/email.svg" />
-  </a>
-  <a href="https://github.com/t1a2n3u4" target="_blank">
-    <img src="https://www.svgrepo.com/show/93973/email.svg" />
-  </a>
+ <a href="https://www.linkedin.com/in/tanishka-mishra-1aa160247/" target="_blank">
+  <img src="https://tse1.mm.bing.net/th/id/OIP.fTEgFBsyeeY_AGYf93hJhwHaHY?rs=1&pid=ImgDetMain&o=7&rm=3" alt="LinkedIn" style="height:40px; width:40px; margin-right: 10px;" />
+</a>
+
+<a href="mailto:tanishkamishra488@gmail.com">
+  <img src="https://www.svgrepo.com/show/193891/mail-email.svg" alt="Email" style="height:40px; width:40px; margin-right: 10px;" />
+</a>
+
+<a href="https://github.com/t1a2n3u4" target="_blank">
+  <img src="https://bitperfect.at/assets/blog-images/Headerbild-Was-ist-GitHub-v2.png" alt="GitHub" style="height:40px; width:40px;" />
+</a>
+
 </p>
 
 ---
