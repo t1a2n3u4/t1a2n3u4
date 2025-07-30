@@ -15,7 +15,7 @@
 - 👯 Love collaborating on open-source, hackathons & tech communities
 - 📚 Tech stack: React.js, Node.js, Express.js, MongoDB, HTML, CSS, JS, Git, GitHub
 - 💬 Ask me about anything in MERN, GitHub, C++, or API integrations
-- 📫 Reach me at: `tanishkamishra488@gmail.com` *(replace with your real email)*
+- 📫 Reach me at: `tanishkamishra488@gmail.com`.
 
 ---
 
