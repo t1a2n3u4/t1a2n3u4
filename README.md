@@ -83,14 +83,14 @@
 ## 🤝 Let's Connect
 
 <p align="left">
-  <a href="https://linkedin.com/in/your-link" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" />
+  <a href="https://www.linkedin.com/in/tanishka-mishra-1aa160247/" target="_blank">
+    <img src="https://tse1.mm.bing.net/th/id/OIP.fTEgFBsyeeY_AGYf93hJhwHaHY?rs=1&pid=ImgDetMain&o=7&rm=3" />
   </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail" />
+  <a href="mailto:tanishkamishra488@gmail.com">
+    <img src="https://www.svgrepo.com/show/93973/email.svg" />
   </a>
   <a href="https://github.com/t1a2n3u4" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github" />
+    <img src="https://www.svgrepo.com/show/93973/email.svg" />
   </a>
 </p>
 
