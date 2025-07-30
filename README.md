@@ -1,8 +1,17 @@
-<h1 align="center">Hi 👋, I'm Tanu (aka t1a2n3u4)</h1>
+<!-- Banner Background Image -->
+
+
+<h1 align="center">Hi 👋, I'm Tanishka Mishra</h1>
 <h3 align="center">💻 MERN Stack Developer | 🎯 Tech Explorer | 🧠 AI Projects Enthusiast</h3>
 
+<!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=React+JS+%7C+Node+JS+%7C+MongoDB;AI+Emotion+Detector+%7C+Calculator+%7C+Color+Generator;Full+Stack+Web+Developer+%7C+C%2B%2B+%7C+GitHub;Always+learning%2C+always+building!+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
+<!-- Typing Anime Girl Image -->
+<p align="center">
+  <img src="https://w0.peakpx.com/wallpaper/385/574/HD-wallpaper-narusawa-sora-con-game-cg-beautiful-laptop-sexy-cute-windows-mecha-sakurajima-moe-computer-hot-beauty-anime-girl-black-hair.jpg" alt="Typing Anime Girl" width="600" />
 </p>
 
 ---
@@ -28,25 +37,37 @@
 
 ---
 
-## 🧠 My Tech Stack
+<h2 align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/3064/3064197.png" width="35px" />
+  <span><b><span style="color:#0d6efd;"> My Tech Stack</span></b></span>
+</h2>
 
-### 🔹 Frontend  
-![React](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react)  
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)  
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
+---
 
-### 🔹 Backend  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)  
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
+### 🎨 <b><span style="color:#e91e63;">Frontend</span></b>
 
-### 🔹 Others  
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)  
-![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel)  
-![PowerPoint](https://img.shields.io/badge/-PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint)
+![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+### 🔧 <b><span style="color:#0D7377;">Backend</span></b>
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
+
+### ⚙️ <b><span style="color:#FF9800;">Others</span></b>
+
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/-PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 
 ---
 
