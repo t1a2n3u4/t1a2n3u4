@@ -78,8 +78,7 @@
 | [😃 AI Emotion Detector](https://github.com/t1a2n3u4/ai-emotion) | Detects human emotions using webcam feed and AI | React, JavaScript, TensorFlow.js |
 | [🎨 Color Generator](https://github.com/t1a2n3u4/color-generator) | Random HEX/RGB color palette generator with copy & export | HTML, CSS, JS |
 | [🧮 Calculator App](https://github.com/t1a2n3u4/calculator) | Simple and elegant calculator with dark mode | HTML, CSS, JS |
-| [🛍️ AI E-Commerce](https://github.com/t1a2n3u4/ai-ecommerce) | Voice-based AI shopping experience | MERN, OpenAI |
-| [🎥 Smart Meet](https://github.com/t1a2n3u4/smart-meet) | Video conferencing with proctoring, chat, screen share | React, Node, MongoDB, Agora |
+| [🎥bookStore](https://github.com/nehayadav25-ny/BookStoreAp) | BOOK store  | React, Node, MongoDB  |
 
 > 💡 *More projects on [t1a2n3u4](https://github.com/t1a2n3u4)*
 
